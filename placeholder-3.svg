@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+    <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071821"/><stop offset="1" stop-color="#0b6d83"/></linearGradient></defs>
+    <rect width="1200" height="900" fill="url(#g)"/><circle cx="930" cy="180" r="220" fill="#20c6d8" opacity=".08"/>
+    <text x="600" y="410" fill="#20c6d8" font-family="Arial" font-size="74" font-weight="700" text-anchor="middle">EVIDENCIA 03</text>
+    <text x="600" y="500" fill="#b7d6dd" font-family="Arial" font-size="30" text-anchor="middle">REEMPLAZAR CON FOTOGRAFÍA REAL</text>
+    </svg>
